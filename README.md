@@ -5,3 +5,4 @@
 - Implementation.cs - Реализаця
 - Association.cs - Ассоциация
 - Composition.cs - Композиция
+- Aggregation.cs - Агрегация
